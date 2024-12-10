@@ -1,0 +1,18 @@
+[
+null,
+{"id":1,"list":[{"code":122,"indent":0,"parameters":[1,1,2,0,1]},{"code":111,"indent":0,"parameters":[1,1,0,0,2]},{"code":333,"indent":1,"parameters":[-1,0,1]},{"code":101,"indent":1,"parameters":["",0,1,1]},{"code":401,"indent":1,"parameters":["\\ncEnemy Exhausted!"]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Action Limit Decrease 1","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":122,"indent":0,"parameters":[1,1,4,0,2]},{"code":111,"indent":0,"parameters":[1,1,0,0,2]},{"code":333,"indent":1,"parameters":[-1,0,1]},{"code":101,"indent":1,"parameters":["",0,1,1]},{"code":401,"indent":1,"parameters":["\\ncEnemy Exhausted!"]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Maddening Cacophony","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":122,"indent":0,"parameters":[1,1,2,0,5]},{"code":111,"indent":0,"parameters":[1,1,0,0,2]},{"code":333,"indent":1,"parameters":[-1,0,1]},{"code":101,"indent":1,"parameters":["",0,1,1]},{"code":401,"indent":1,"parameters":["\\ncEnemy Exhausted!"]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Mill TEst ","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":111,"indent":0,"parameters":[1,1,0,0,2]},{"code":333,"indent":1,"parameters":[-1,0,1]},{"code":101,"indent":1,"parameters":["",0,1,1]},{"code":401,"indent":1,"parameters":["\\ncEnemy Exhausted!"]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Mindcrank","switchId":1,"trigger":0},
+{"id":5,"list":[{"code":355,"indent":0,"parameters":["$gameTroop.updateRows();"]},{"code":0,"indent":0,"parameters":[]}],"name":"Row Updater","switchId":1,"trigger":0},
+{"id":6,"list":[{"code":122,"indent":0,"parameters":[5,5,1,0,2]},{"code":0,"indent":0,"parameters":[]}],"name":"Dread Sniper","switchId":1,"trigger":0},
+{"id":7,"list":[{"code":122,"indent":0,"parameters":[5,5,0,0,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Dread Reset","switchId":1,"trigger":0},
+{"id":8,"list":[{"code":122,"indent":0,"parameters":[5,5,1,0,3]},{"code":0,"indent":0,"parameters":[]}],"name":"Dark Ritual","switchId":1,"trigger":0},
+{"id":9,"list":[{"code":122,"indent":0,"parameters":[7,7,1,0,1]},{"code":0,"indent":0,"parameters":[]}],"name":"Storm Count","switchId":1,"trigger":0},
+{"id":10,"list":[{"code":122,"indent":0,"parameters":[8,8,0,0,3]},{"code":0,"indent":0,"parameters":[]}],"name":"City on Fire","switchId":1,"trigger":0},
+{"id":11,"list":[{"code":122,"indent":0,"parameters":[1,1,2,0,3]},{"code":111,"indent":0,"parameters":[1,1,0,0,2]},{"code":333,"indent":1,"parameters":[-1,0,1]},{"code":101,"indent":1,"parameters":["",0,1,1]},{"code":401,"indent":1,"parameters":["\\ncEnemy Exhausted!"]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Academy Manufacturer","switchId":1,"trigger":0},
+{"id":12,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":13,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":14,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":15,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
