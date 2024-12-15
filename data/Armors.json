@@ -7,5 +7,9 @@ null,
 {"id":5,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":162,"name":"Kellan, the Fae-Blooded","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
 {"id":6,"atypeId":0,"description":"Increases damage dealt by Instants. ","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":64,"name":"Ghyrson Starn, the Kellermorph","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
 {"id":7,"atypeId":0,"description":"Increase maximum MP.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":66,"name":"Kallamax, the Stormsire","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":8,"atypeId":0,"description":"","etypeId":2,"traits":[],"iconIndex":5,"name":"Krenko, the Mob Boss","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+{"id":8,"atypeId":0,"description":"","etypeId":2,"traits":[],"iconIndex":5,"name":"Krenko, the Mob Boss","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":9,"atypeId":0,"description":"A larger container for die for more experienced players.\nContains 2 dies.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":209,"name":"Dice Bag","note":"<Augment Slots>\nDice\nDice\n</Augment Slots>","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":10,"atypeId":0,"description":"Gains small HP regeneration per turn. ","etypeId":2,"traits":[{"code":22,"dataId":7,"value":0.1}],"iconIndex":191,"name":"Generic Playmat","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":11,"atypeId":1,"description":"A fancy box that can contain","etypeId":2,"traits":[],"iconIndex":210,"name":"Dice Box","note":"<Augment Slots>\nDice\nDice\nDice\nDice\n</Augment Slots>","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":12,"atypeId":0,"description":"A player's first die container. Contains 1 dice. ","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":208,"name":"Dice Pouch","note":"<Augment Slots>\nDice\n</Augment Slots>","params":[0,0,0,0,0,0,0,0],"price":0}
 ]
