@@ -1,5 +1,8 @@
 [
 null,
 {"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1092,"scrollY":597.3333333333334},
-{"id":2,"expanded":false,"name":"Command Tower","order":2,"parentId":1,"scrollX":1081.3333333333333,"scrollY":602.6666666666666}
+{"id":2,"expanded":false,"name":"Command Tower","order":2,"parentId":1,"scrollX":1081.3333333333333,"scrollY":602.6666666666666},
+{"id":3,"expanded":false,"name":"Zahin's Apartment","order":3,"parentId":0,"scrollX":1092,"scrollY":597.3333333333334},
+{"id":4,"expanded":false,"name":"First Forest","order":4,"parentId":0,"scrollX":1092,"scrollY":597.3333333333334},
+{"id":5,"expanded":false,"name":"Main Tavern","order":5,"parentId":0,"scrollX":1092,"scrollY":597.3333333333334}
 ]
