@@ -56,8 +56,10 @@ var $plugins =
 {"name":"YEP_MoveRouteCore","status":true,"description":"v1.04 Expand the number of movement options for the move\nroute events using this plugin.","parameters":{}},
 {"name":"--------------------","status":true,"description":"------------------------------------------------------------","parameters":{}},
 {"name":"YEP_EventChasePlayer","status":true,"description":"v1.07 When a player is in the proximity of a certain event,\nthe event will start chasing or fleeing from the player.","parameters":{"Sight Lock":"300","See Player":"true","Alert Timer":"120","Alert Balloon":"1","Alert Sound":"Attack1","Alert Common Event":"0","Return After":"true","Return Wait":"180"}},
+{"name":"YEP_IconsOnEvents","status":true,"description":"v1.00 Allows you to put icons on events and the player!","parameters":{"X Buffer":"0","Y Buffer":"12"}},
 {"name":"SRD_SuperToolsEngine","status":true,"description":"The heart of all maker-style plugins; it adds a playtesting editor that can be opened with F12.","parameters":{"Connect Editor":"true","Auto Open Window":"false","Auto Move Window":"true","Menu Editor Exempt List":"[\"Window_BattleLog\",\"Window_MapName\"]"}},
 {"name":"SRD_HUDMaker","status":true,"description":"Allows developers to create their own map-based HUD through an in-game GUI window!","parameters":{"Active Updating":"false","Show During Events":"transparent","Map Global Condition":"","Battle Global Condition":"true","Disable Delete Key":"true"}},
 {"name":"WAY_Core","status":true,"description":"v2.0.0 WAY Core Utility Plugin. Place it above all WAY plugins. <WAY_Core>","parameters":{}},
-{"name":"WAY_CustomOnEquipEval","status":true,"description":"v1.2.1 Run code when an actor equips or unequips an item. <WAY_CustomOnEquipEval>","parameters":{}}
+{"name":"WAY_CustomOnEquipEval","status":true,"description":"v1.2.1 Run code when an actor equips or unequips an item. <WAY_CustomOnEquipEval>","parameters":{}},
+{"name":"YEP_RegionRestrictions","status":true,"description":"v1.04 Use regions to block out Events and/or the player from\nbeing able to venture into those spots.","parameters":{"Player Restrict":"0","Event Restrict":"0","All Restrict":"0","Player Allow":"0","Event Allow":"0","All Allow":"0"}}
 ];
