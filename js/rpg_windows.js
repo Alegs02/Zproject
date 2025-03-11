@@ -5390,7 +5390,7 @@ Window_ActorCommand.prototype.makeCommandList = function() {
 };
 
 Window_ActorCommand.prototype.addAttackCommand = function() {
-    this.addCommand(TextManager.attack, 'attack', this._actor.canAttack());
+    //this.addCommand(TextManager.attack, 'attack', this._actor.canAttack());
 };
 
 Window_ActorCommand.prototype.addSkillCommands = function() {
